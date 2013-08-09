@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VendasAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="codProduto">Código do Produto</string>
+    <string name="btnConsultar">Consultar</string>
+    <string name="descProduto">Descrição do Produto</string>
+
+</resources>
